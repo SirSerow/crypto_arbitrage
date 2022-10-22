@@ -1,0 +1,4 @@
+2022-10-23 00:42:30,095:ERROR:root:Failed to connect
+2022-10-23 00:42:30,096:ERROR:root:(1045, "Access denied for user 'sirse'@'localhost' (using password: NO)")
+2022-10-23 00:43:15,095:ERROR:root:Failed to connect
+2022-10-23 00:43:15,095:ERROR:root:(1045, "Access denied for user 'sirse'@'localhost' (using password: NO)")
